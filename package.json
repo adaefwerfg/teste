@@ -32,14 +32,15 @@
     "tsx": "^4.17.0",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.2.0",
-    "vitest": "^2.0.5"
+    "vitest": "^2.0.5",
+    "sqlite3": "^5.1.7"
   },
   "dependencies": {
     "@fastify/cookie": "^9.3.1",
     "dotenv": "^16.4.5",
     "fastify": "^4.28.1",
     "knex": "^3.1.0",
-    "sqlite3": "^5.1.7",
+    "pg": "^8.12.0",
     "zod": "^3.23.8"
   }
 }
